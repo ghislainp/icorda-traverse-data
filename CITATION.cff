@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Picard
+  given-names: Ghislain
+  orcid: https://orcid.org/0000-0003-1475-5853
+- family-names: Poizat
+  given-names: Marine
+  orcid: https://orcid.org/0000-0002-8022-2791
+- family-names: Arnaud
+  given-names: Laurent
+  orcid: https://orcid.org/0000-0002-4432-4205
+
+title:G. Picard, M. Poizat, L. Arnaud, Profiles of snow specific surface area (SSA) and snow density collected at Little Dome C, in Antarctica, 2022.
+date-released: 2026-10-18
